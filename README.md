@@ -1,8 +1,8 @@
-  Hi there 👋 
+ # Hi there 👋 
  
- This is Blessing Emmanuel 
+ # This is Blessing Emmanuel 
  
-  I am a dedicated data analyst passionate about transforming raw data into actionable insights. 
+ # I am a dedicated data analyst passionate about transforming raw data into actionable insights. 
   
 - 🌱 I’m currently working on several projects to challenge and improve myself on Data Analytics Skills.
 - 💞️ I’m looking to collaborate with companies/organizations or individuals to solve their business problems by leveraging data.
