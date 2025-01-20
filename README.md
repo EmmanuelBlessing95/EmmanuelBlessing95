@@ -1,6 +1,6 @@
  # Hi there 👋 
  
- # This is Blessing Pelumi Afolabi 
+ # This is Blessing Pelumi Emmanuel 
  
  # I am a dedicated data analyst passionate about transforming raw data into actionable insights. 
   
