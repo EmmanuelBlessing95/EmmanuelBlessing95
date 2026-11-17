@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/blessing-emmanuel-4b7177272">
+  <a href="https://www.linkedin.com/in/blessing-emmanuel-4b7177272">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:emmanuelblessing9523@gmail.com">
