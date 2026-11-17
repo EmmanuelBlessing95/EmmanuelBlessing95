@@ -27,7 +27,7 @@
 ## 🙋🏽‍♀️ About Me
 
 - 🏆 Completed the **HNG Tech Data Analytics Internship** — 4 stages, hard deadlines, real business datasets
-- 🎓 Currently a **Women Techsters Fellow (Class of 2026)** — specialising in Data Science & Engineering
+- 🎓 Completed the **Women Techsters Fellow (Class of 2026)** — specialising in Data Science & Engineering
 - 📊 Experience across **SQL, Power BI, Tableau, Excel, and PostgreSQL**
 - 🌍 Analysed datasets from e-commerce, banking, global sales, and 16M+ climate tweets
 - 🔍 Currently building: **Python (Pandas · NumPy · Matplotlib) · Machine Learning**
@@ -68,7 +68,7 @@
 
 ## 🏅 Certifications
 
-- 🏆 Women Techsters Fellowship — Data Science & Engineering · Class of 2026 *(In Progress)*
+- 🏆 Women Techsters Fellowship — Data Science & Engineering · Class of 2026 
 - ✅ HNG Tech Data Analytics Internship · Stages 1–4 · 2025
 - ✅ Data Analysis Certificate · Ladies in Tech Africa (LITA) · 2025
 - ✅ Data Analysis Certificate · Dahel Techies Consultant · 2024
